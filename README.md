@@ -1,2 +1,2 @@
 # Java-Problem-Solving
-Solutions to various coding problems on leetcode and codeforces
+Algorithmic solutions to various problems Codeforces problems
